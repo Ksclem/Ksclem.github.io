@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Darcy</title>
+    <link href="darcy.css" type="text/css" rel="stylesheet"> 
+    </head>
+
+<body>
+   <div id="wrap">
+    <header>
+    <img src="Darcy%20(1).png" alt="Darcy Banner">
+    </header>
+    <nav>
+      
+        <ul>
+            <li><a href="">Home</a></li>
+            <li><a href="">Early Life</a></li>
+            <li><a href="">Skills</a></li>
+            <li><a href="">Hobbies</a></li>
+            <li><a href="">Contact</a></li>
+        </ul>
+       
+       </nav>
+    <section>
+       <h1>This is a website about the best dog to ever exist, Darcy. </h1>
+        <p> <img src= "IMG_2670.jpg" alt="Darcy" class= "pic">Darcy is an eight year old purebred Bloodhound. She will turn nine at the end of October. Her favorite activities include swimming, eating, sleeping, and playing with her sisters, Darlene and Jolene. Darcy was born in Missouri but has spent most of her life in both Colorado and Montana. Her skills include tracking, running, sitting when told, and cleaning dishes. She is usually pretty well behaved and a very sweet girl.</p>
+
+
+<p> <img src= "IMG_2669.jpg" alt="Young Darcy" class= "pic2">Bloodhounds are a large scent hound, originally bred for hunting deer, wild boar, rabbits, and since the Middle Ages, for tracking people. Believed to be descended from hounds once kept at the Abbey of Saint-Hubert, Belgium, in French it is called, le chien de Saint-Hubert. This breed is famed for its ability to discern human scent over great distances, even days later. Its extraordinarily keen sense of smell is combined with a strong and tenacious tracking instinct, producing the ideal scent hound, and it is used by police and law enforcement all over the world to track people, pets, and even fugitives.</p>
+       
+        <p><a href="donate.com" class="button">Donate</a></p>
+        
+       </section>
+    <footer>
+       &copy; 2024 Darcy Rose. All rights reserved.
+       </footer>
+    
+       
+       </div> 
+    </body>
+
+
+</html><\
+
+
+
+body {
+    
+    margin:0;
+    padding:0;
+    background-color: darkseagreen;
+    font-family: inherit;
+}
+
+header, nav, section, footer, #wrap {
+    background-color: white;
+    
+}
+
+#wrap {
+    width:70%;
+    margin:0 auto;
+}
+
+header img {
+    width:100%
+}
+
+nav {
+    background-color: darkolivegreen;
+    padding:20px;
+    text-align:center;
+}
+
+nav li{
+    display:inline;
+}
+
+nav ul{
+    margin:0;
+        padding:0;
+}
+
+nav a {
+    
+    color: white;
+    font-size: 170%;
+    text-decoration: none;
+    padding: 20px;
+}
+
+nav a:hover {
+    background-color: darkseagreen;
+    color:darkolivegreen;
+}
+
+section {
+    padding: 20px 40px 20px 40px;
+    overflow:auto;
+}
+
+footer {
+    
+    background-color:darkolivegreen;
+    color:white;
+    text-align:center;
+    padding: 20px;
+}
+
+.pic{
+    width:45%;
+    float:right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.pic2{
+     width:30%;
+    float:left;
+    margin-right:20px;
+    
+}
+
+a.button {
+    background-color:darkolivegreen;
+    color:white;
+    text-decoration: none;
+    padding:45px, 45px;
+    display: inline-block;
+    border-radius: 10px;
+    font-size: 150%;
+    
+}
+
+a.button:hover {
+    background-color: darkseagreen;
+    color:darkgreen;
+    
+}
+
