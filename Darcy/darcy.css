@@ -3,7 +3,7 @@ body {
     margin:0;
     padding:0;
     background-color: darkseagreen;
-    font-family: verdana, sans-serif;
+    font-family: inherit;
 }
 
 header, nav, section, footer, #wrap {
