@@ -1,0 +1,94 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+</style>
+body {
+    
+    margin:0;
+    padding:0;
+    background-color: #aaa;
+    background-image:url(mountains.jpg);
+    background-size: cover;
+}
+
+#wrap {
+    
+    width:80%;
+    margin:0 auto;
+    
+}
+
+header, nav, section, footer {
+    
+    padding:2%;
+    margin:2%;
+    background-color: #fff;
+    
+
+}
+
+section {
+    background-color: rgba(255,255,255,1.0);
+    opacity: 1;
+    overflow:auto;
+}
+
+div#block, div#block2 {
+    
+    width: 400px;
+    height: 400px;
+    margin: 30px auto;
+background-color: red;
+    border: 2px solid black;
+}
+
+div#block2 {
+    background-color: yellow;
+   /* float:right;*/
+    position: absolute;
+    left:15px;
+    top:40px;
+}
+
+#surround {
+    width:600px;
+    padding:20px;
+    margin:30px auto;
+    background-color:aquamarine;
+    border:2px solid black;
+    overflow: auto;
+    position: relative;
+}
+
+figure{
+    width:27%;
+    background-color: black;
+        padding:2%;
+    text-align: center;
+    float:left;
+    margin: 2.1;
+}
+
+figure img{
+    width:32%;
+}
+
+figcaption {
+    color:white;
+    font-family: Ariel, sans-serif;
+    font-size: 12px;
+    margin-top: 1%;
+}
+
+header{
+    font-family: :"OSWALD", "sans-serif";
+    font-optical-sizing: "auto";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 500%;
+}
+
+footer{
+    
+      font-family: "Satisfy", cursive;
+  font-weight: 400;
+  font-style: normal;
