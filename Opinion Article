@@ -1,0 +1,39 @@
+<html>
+
+<head>
+<title>Website Opinion Article</title>
+    
+    </head>
+
+<body>
+    <h1>Website Opinion Article</h1>
+    
+    <h2>1. Altard State </h2>
+     
+    <p>The first website that I chose to review and that I liked, was the Altard State page. Altard State is a women's clothing store that is pretty exspensive and really nicely decorated in the physical store, so I was curious to see if their website lived up to the standards they've set elsewhere. This website is clean and simple, but not boring. They use white, grey, pink, and gold, which all align really well with their branding. The logo in the top right corner is animated too. For Christmas season, it flashes different seasonal icons which I think is really clever but not too big or flashy that it is annoying. I think a small detail like this shows effort. </p>
+    
+    <p>There is a really great mix of fonts that compliment eachother and the images are organized into three or more columns. I think the variety is nice because it doen't look like one big grid, but tries different organizational tactics while still staying cohesive with the brand colors and fonts. It is very easy to navigate and not too crowded at all. The drop down menus are well organized lists with good spacing and easy to read. There is enough white space to ease they eye and to distinguish between sections or topics, but not too much to make it boring.</p>
+    
+    <p>In the code I saw the basics of  "head", "body", "div", "ul", and lots of "links" and lots of "class".The code was complex but not too crazy. the code looked clean and modern and they used lots of HTML elements throughout. I didn't see any tables and it did validate.  Something I loved about this website was that when you hover over the image of an item, it will switch the image to a different viewpoint or closer up image of that product. And if you take your mouse off, it reverts to the first image. This made the page fun to scroll through. I didn't see any scrolling affect, but that could be another cool feature to add to improve the website. The page really aligns with the customer base and it is apparent that effort was put into the design, there are lots of small details in the advertisements and plenty of images that can come and go based on where you scroll or hover your mouse. Another thing that I really liked about the small details of this website was that they used all capital letters as well as words with lowercase. This was appealing to me and added to the different design details.  </p>
+    
+    
+        <p> <a href="https://www.altardstate.com/" target="_blank">Altard State</a></p>
+
+        <h2>2. Craigslist</h2>
+    <p>The website I chose as an example of a poorly designed website was the Helena Craigslist page. This website looks outdated, boring, and slopily put together in a rush. The only colors it uses are blue and white, with a faint grey background in come places, which I find way too basic. It's lack of color is not helping. Also, not one letter on this website is capitalized. This gives me the impression of unprofessionalism and laziness. It is a huge pet peeve of mine and I don't find it quirky, just grammatically incorrect. </p>
+   
+    <p> The layout appears to be in five, long columns. There are no photos on the home page, just a logo in the top left corner; a peace sign, which I don't find creative or cohesive with what Craigslist is. There's no scrolling affect and I think there are just too many words thrown at you all at once with very little distinction between topics and sections and nothing artistic or aesthetic to give your eyes a break from reading bright blue letters that are in the most basic font. Again, this website just comes across as lazy to me. </p>
+  
+    <p>The code looks much more simple and similar to what we've done in class. I see the basics of the "head", "body", "div", "ul", and alot of "script". There's not much in the code that I am unfamiliar with, which is probably a bad sign for a professionally made website. I am not suprised that the code to this website looks so much more simple than the other two because the website itself is also so much more simple. It's almost like they used the css sheet only for placing lists and headings and not at all for any other design, pictures, or aesthetic goals. The code did validate and looked clean, just really simple as well. I think updating this website and putting more effort into it would honestly make it look less sketchy. Right now, it doesn't look trustworthy or well run. Maybe if they updated it more people would use Craigslist or it could elevate its status to match other competing second-hand sites and companies. </p>  
+                      <p> <a href="https://helena.craigslist.org/" target="_blank">Craigslist</a></p>
+                 <h2>3. Notre Dame</h2>
+    <p> The official website for the Univeristy of Notre Dame is an example of a really well designed website. The color scheme is cohesive throughout and there is detail everywhere you look. On the home page, I really like the mix of unique fonts used. It doesn't look basic at all or like a person rushed to get it done. The layout is very clean, leaving enough white space to make navigation and reading really easy, but not too much so that it looks unfinished or empty. The homepage looks to be sectioned off into blocks, each paragraph or heading is matched with a photo and it looks really clean and organized. They also did a good job of adding background photos with low opacity or faint background colors to section things off on the same page. 
+  
+    <p>In the code I see "head", "class", "title", lots of "link", "h ref", and lots of "symbol" and "path". I also noticed unordered lists, a nav, as well as lots of different "classes" and "id"s. It looks pretty clean, but also very repetitive. I also really liked how, at the bottom of the page, the links to their social media platforms had little logos next to them that were still on theme with the color scheme of the entire site. I found the website to be very easy to navigate and not overwhelming at all, which is why I think I like it so much. It doesn't feel like there's too much to look at all at once and it is cohesive and flows well with mostly a two column layout. 
+             </p>
+    <p>I didn't see any scrolling effect, which is something I think they could add to make it even better. They use the three school colors: blue, gold, and white. The gold is used to highlight certain words and the other two make up the backgrounds and sections. I think the website comes across as professional, classy, and true to tradition, which are all things that I think align with what Notre Dame strives to present itself as. The website is clean, organized, and aesthetic, so I think this is a great example of a well deisgned site. 
+        
+      </p>
+                 
+                     
+                      <p> <a href="https://www.nd.edu/" target="_blank">Notre Dame</a></p>
