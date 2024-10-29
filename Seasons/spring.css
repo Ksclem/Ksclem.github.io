@@ -1,0 +1,54 @@
+body {
+    
+    margin:0;
+    padding:0;
+    background-color: #aaa;
+}
+
+#wrap {
+    
+    width:80%;
+    margin:0 auto;
+    
+}
+
+header, nav, section, footer {
+    
+    padding:2%;
+    margin:2%;
+    background-color: #fff;
+}
+
+header, footer {
+    background-color: cadetblue;
+    text-align: center; 
+    color:white;
+    font-family: Gerogia, serif;
+}
+
+nav {
+    background-color: forestgreen;
+    text-align: center;
+    font-size: x-large;
+    padding: 13px;
+
+}
+
+nav ul{
+    margin:0;
+    padding: 0;
+    
+}
+
+nav li {
+    display: inline;
+}
+
+nv a {
+    color: white;
+    text-decoration: none;
+    padding: 15px 25px;
+}
+
+nav a:hover{ 
+background-color: seagreen;}

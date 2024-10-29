@@ -1,0 +1,170 @@
+body {
+    
+    margin:0;
+    padding:0;
+    background-color: #aaa;
+}
+section {
+     padding: 20px 40px 20px 40px;
+    overflow: auto;
+}
+#spring {
+    background-color: yellowgreen;
+}
+
+body#fall {
+    background-color: #D68910;
+}
+
+body#summer {
+    background-color: #FFFF8F;
+}
+
+body#winter {
+    background-color: cornflowerblue;
+}
+body#home {
+    background-color: antiquewhite;
+}
+
+#wrap {
+    
+    width:80%;
+    margin:0 auto;
+    
+}
+
+header, nav, section, footer {
+    
+    padding:2%;
+    margin:2%;
+    background-color: #fff;
+}
+
+header, footer {
+    background-color: cadetblue;
+    text-align: center; 
+    color:white;
+    font-family: 'Tahoma', sans-serif;
+}
+#spring header, #spring footer {
+    background-color: lightpink;
+}
+
+#fall header, #fall footer {
+    background-color: #A93226;
+}
+
+#winter header, #winter footer {
+    background-color: #21618C;
+}
+
+#summer header, #summer footer {
+    background-color: lightsteelblue;
+}
+
+#home header, #home footer {
+    background-color: gainsboro;
+}
+
+nav {
+    background-color: forestgreen;
+    text-align: center;
+    font-size: x-large;
+    padding: 13px;
+
+}
+
+#spring nav {
+    background-color: forestgreen;
+}
+
+#fall nav {
+    background-color: darkolivegreen;
+}
+
+#summer nav {
+    background-color: #FFDB58;
+}
+
+#winter nav {
+    background-color: paleturquoise;
+}
+
+
+#home nav {
+    background-color: palegoldenrod;
+}
+
+nav ul{
+    margin:0;
+    padding: 0;
+    
+}
+
+nav li {
+    display: inline;
+}
+
+nv a {
+    color: white;
+    text-decoration: none;
+    padding: 15px 25px;
+}
+
+#fall nav a {
+    color:indianred;
+}
+
+#summer nav a {
+    color:skyblue;
+}
+
+#winter nav a {
+    color:cornflowerblue;
+}
+
+#spring nav a {
+    color:papayawhip;
+}
+
+#home nav a {
+    color:lightslategrey;
+}
+
+
+nav a:hover{ 
+background-color: seagreen;}
+
+.winter1 {
+    width:33%;
+}
+.winter2 {
+float:right;
+}
+.fall2 {
+    width:37%;
+}
+
+.spring1 {
+    width:30%;
+}
+
+.home1 {
+ width:30%;
+    height:24%;
+}
+
+.summer1 {width:22%;}
+
+.fall1{
+    float:right;
+}
+
+.summer2 {
+    float:right;
+}
+.spring2 {
+    float:right;
+}
+
