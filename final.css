@@ -1,0 +1,515 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Satisfy&family=Tangerine:wght@400;700&display=swap');
+
+body {
+    
+    margin:0;
+    padding:0;
+    background-color: #FDEBD0;
+}
+section {
+     padding: 20px 40px 20px 40px;
+    overflow: auto;
+}
+h1{
+font-size: 99px;}
+
+h2{
+font-size: 55px;}
+#baby {
+    background-color: #FAF0E6;
+}
+
+#hydrangea {
+    background-color: skyblue;
+}
+#tulip {
+    background-color: yellowgreen;
+}
+body#peony {
+    background-color: #DB7093;
+}
+
+body#rose {
+    background-color: #7B241C;
+}
+
+body#hydrangea {
+    background-color: #B0E0E6;
+}
+
+body#glad {
+    background-color: #F7DC6F;
+}
+body#tulip {
+    background-color: #DB7093;
+}
+body#home {
+    background-color: antiquewhite;
+}
+body#slide {
+    background-color: antiquewhite;
+}
+#wrap {
+    
+    width:80%;
+    margin:0 auto;
+    
+}
+
+header, nav, section, footer {
+    
+    padding:2%;
+    margin:2%;
+    background-color: #fff;
+}
+
+header, footer {
+    background-color: cadetblue;
+    text-align: center; 
+    color:white;
+    font-family:  ;
+}
+#baby header, #baby footer {
+    background-color: #FFE4C4;
+}
+#hydrangea header, #baby footer {
+    background-color: #DDA0DD;
+}
+
+
+#tulip header, #tulip footer {
+    background-color: lightpink;
+}
+
+#peony header, #peony footer {
+    background-color: #E6B0AA;
+}
+
+#glad header, #winter footer {
+    background-color: #F1948A;
+}
+
+#rose header, #rose footer {
+    background-color: #0B5345;
+}
+
+#home header, #home footer {
+    background-color: floralwhite;
+}
+#slide header, #slide footer {
+    background-color: #E6B0AA;;
+}
+
+nav {
+    background-color: #BC8F8F;
+    text-align: center;
+    font-size: x-large;
+    padding: 13px;
+
+}
+nav ul{word-spacing: 50px;}
+
+#baby nav {
+    background-color: #BC8F8F;
+}
+#hydrangea nav {
+    background-color: #D4E6F1;
+}
+
+#tulip nav {
+    background-color: #F08080;
+}
+
+#peony nav {
+    background-color: #F1948A;
+}
+
+#rose nav {
+    background-color: #0B5345;
+}
+
+#glad nav {
+    background-color: #FFE4B5;
+}
+
+
+#home nav {
+    background-color: palegoldenrod;
+}
+#slide nav {
+    background-color: palegoldenrod;
+}
+
+nav ul{
+    margin:0;
+    padding: 0;
+    
+}
+
+nav li {
+    display: inline;
+}
+
+nv a {
+    color: white;
+    text-decoration: none;
+    padding: 15px 25px;
+}
+
+#peony nav a {
+    color:white;
+}
+
+#tulip nav a {
+    color:white;
+}
+
+#rose nav a {
+    color:white;
+}
+
+#hydrangea nav a {
+    color:#5499C7;
+}
+
+#winter nav a {
+    color:cornflowerblue;
+}
+
+#baby nav a {
+    color:papayawhip;
+}
+
+#home nav a {
+    color:lightslategrey;
+}
+#slide nav a {
+    color:lightslategrey;
+}
+
+
+nav a:hover{ 
+background-color: seagreen;}
+
+.glad1 {
+    width:25%;
+    height: 25%;
+   
+}
+.glad2 {
+    width:25%;
+    height: 25%;
+    float: right; 
+      margin-right: 15px; 
+      margin-bottom: 15px; 
+}
+.glad3 {
+    width:25%;
+    height: 25%;
+    float: left; 
+      margin-right: 15px; 
+      margin-bottom: 15px; 
+}
+.glad4 {
+    width:25%;
+    height: 25%;
+     float: right; 
+      margin-right: 15px; 
+      margin-bottom: 15px; 
+}
+
+.baby1 {
+    width:25%;
+    height:25%;
+}
+
+.baby2 {
+    width:25%;
+    height: 25%;
+     float: left; 
+      margin-right: 15px; 
+      margin-bottom: 15px; 
+}
+.baby3 {
+    width:25%;
+    height: 25%;
+     float: right; 
+      margin-right: 15px; 
+      margin-bottom: 15px; 
+}
+.baby4 {
+    width:25%;
+    height: 25%;
+     float: left; 
+      margin-right: 15px; 
+      margin-bottom: 15px; 
+}
+.home1 {
+ width:30%;
+    height:24%;
+}
+
+.rose {width:22%;}
+
+.peony1{
+     width:25%;
+    height: 25%;
+
+}
+
+.peony2{
+     width:25%;
+    height: 25%;
+    float: left; 
+      margin-right: 15px; 
+      margin-bottom: 15px; 
+}
+.peony3{
+     width:25%;
+    height: 25%;
+    float: right; 
+      margin-right: 15px; 
+      margin-bottom: 15px; 
+}
+
+.peony4{
+     width:25%;
+    height: 25%;
+    float: left; 
+      margin-right: 15px; 
+      margin-bottom: 15px; 
+}
+
+.rose1{
+     width:25%;
+    height: 25%;
+}
+
+.rose2{
+     width:25%;
+    height: 25%;
+     float: left; 
+      margin-right: 15px; 
+      margin-bottom: 15px; 
+}
+.rose3{
+     width:25%;
+    height: 25%;
+     float: right; 
+      margin-right: 15px; 
+      margin-bottom: 15px; 
+}
+.rose4{
+     width:25%;
+    height: 25%;
+     float: left; 
+      margin-right: 15px; 
+      margin-bottom: 15px; 
+}
+
+.glad1{
+     width:25%;
+    height: 25%;
+}
+.banner{
+     width:92%;
+    height: 50%;
+}
+
+.glad2{
+     width:25%;
+    height: 25%;
+     float: left; 
+      margin-right: 15px; 
+      margin-bottom: 15px; 
+}
+.rose {
+    float:right;
+}
+.hydrangea1 {
+    width: 25%;
+    height: 25%;
+}
+.hydrangea2 {
+    width: 25%;
+    height: 25%;
+     float: left; 
+      margin-right: 15px; 
+      margin-bottom: 15px; 
+}
+.hydrangea3 {
+    width: 25%;
+    height: 25%;
+     float: right; 
+      margin-right: 15px; 
+      margin-bottom: 15px; 
+}
+.hydrangea4 {
+    width: 25%;
+    height: 25%;
+     float: left; 
+      margin-right: 15px; 
+      margin-bottom: 15px; 
+}
+.tulip1 {
+    width: 25%;
+    height: 25%;
+}
+.tulip2 {
+    width: 25%;
+    height: 25%;
+ float: left; 
+      margin-right: 15px; 
+      margin-bottom: 15px; }
+
+.tulip3 {
+    width: 25%;
+    height: 25%;
+ float: right; 
+      margin-right: 15px; 
+      margin-bottom: 15px; }
+
+
+.tulip4 {
+    width: 25%;
+    height: 25%;
+ float: left; 
+      margin-right: 15px; 
+      margin-bottom: 15px; }
+
+ .tangerine {
+  font-family: "Tangerine", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+
+@media screen and (min-width:801px) and (max-width:1000px) {
+    
+    nav {
+        font-size: smaller;
+    }
+    body {
+        background-color:skyblue;
+    }
+}
+
+@media screen and (max-width:800px) {
+    
+    nav {
+        padding:0;
+    }
+    #wrap{
+        width: 100%;
+    }
+    body {
+        background-color: white;
+    }
+    
+ 
+}
+
+.nivoSlider {
+	position:relative;
+	width:100%;
+	height:auto;
+	overflow: hidden;
+}
+.nivoSlider img {
+	position:absolute;
+	top:0px;
+	left:0px;
+	max-width: none;
+}
+.nivo-main-image {
+	display: block !important;
+	position: relative !important; 
+	width: 100% !important;
+}
+
+/* If an image is wrapped in a link */
+.nivoSlider a.nivo-imageLink {
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	border:0;
+	padding:0;
+	margin:0;
+	z-index:6;
+	display:none;
+	background:white; 
+	filter:alpha(opacity=0); 
+	opacity:0;
+}
+/* The slices and boxes in the Slider */
+.nivo-slice {
+	display:block;
+	position:absolute;
+	z-index:5;
+	height:100%;
+	top:0;
+}
+.nivo-box {
+	display:block;
+	position:absolute;
+	z-index:5;
+	overflow:hidden;
+}
+.nivo-box img { display:block; }
+
+/* Caption styles */
+.nivo-caption {
+	position:absolute;
+	left:0px;
+	bottom:0px;
+	background:#000;
+	color:#fff;
+	width:100%;
+	z-index:8;
+	padding: 5px 10px;
+	opacity: 0.8;
+	overflow: hidden;
+	display: none;
+	-moz-opacity: 0.8;
+	filter:alpha(opacity=8);
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+}
+.nivo-caption p {
+	padding:5px;
+	margin:0;
+}
+.nivo-caption a {
+	display:inline !important;
+}
+.nivo-html-caption {
+    display:none;
+}
+/* Direction nav styles (e.g. Next & Prev) */
+.nivo-directionNav a {
+	position:absolute;
+	top:45%;
+	z-index:9;
+	cursor:pointer;
+}
+.nivo-prevNav {
+	left:0px;
+}
+.nivo-nextNav {
+	right:0px;
+}
+/* Control nav styles (e.g. 1,2,3...) */
+.nivo-controlNav {
+	text-align:center;
+	padding: 15px 0;
+}
+.nivo-controlNav a {
+	cursor:pointer;
+}
+.nivo-controlNav a.active {
+	font-weight:bold;
+}
